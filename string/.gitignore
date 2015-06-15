@@ -1,0 +1,6 @@
+/string/bin
+/string/obj
+/string/Properties
+
+*.config
+*.csproj
