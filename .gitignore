@@ -1,6 +1,6 @@
-/enum/bin
-/enum/obj
-/enum/Properties
+//bin
+//obj
+//Properties
 
 *.config
 *.csproj

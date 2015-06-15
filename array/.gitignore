@@ -1,0 +1,6 @@
+/array/bin
+/array/obj
+/array/Properties
+
+*.config
+*.csproj
